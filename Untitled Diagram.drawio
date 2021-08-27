@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T10:05:56.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="xWSS2TGwY8ATU2KafA4U" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-27T10:18:44.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="zTUUOCv5OHxneUqju6fW" version="15.0.2" type="github">
   <diagram id="1mUm51Annn_wnX_kLURc" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-1" target="DKNWYhaMzsymn_I_Z7NB-2">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-4" target="DKNWYhaMzsymn_I_Z7NB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-1" target="DKNWYhaMzsymn_I_Z7NB-5">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-7" target="DKNWYhaMzsymn_I_Z7NB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-1" value="选择模式面板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-2" value="CSGetTeamInfoReq获取队伍信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-4" value="enable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-11" target="DKNWYhaMzsymn_I_Z7NB-9">
           <mxGeometry relative="1" as="geometry" />
@@ -28,9 +25,6 @@
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-5" value="CSChangeTargetReq&lt;br&gt;发送切换模式和人数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-7" value="选择模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="100" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-19" target="DKNWYhaMzsymn_I_Z7NB-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -38,7 +32,7 @@
           <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-11" value="单人模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="195" y="230" width="40" height="20" as="geometry" />
+          <mxGeometry x="200" y="230" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-5" target="DKNWYhaMzsymn_I_Z7NB-11">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +47,7 @@
           <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-15" value="组队模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="40" height="20" as="geometry" />
+          <mxGeometry x="294" y="230" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DKNWYhaMzsymn_I_Z7NB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-5" target="DKNWYhaMzsymn_I_Z7NB-15">
           <mxGeometry relative="1" as="geometry">
@@ -81,6 +75,54 @@
             <mxPoint x="414" y="350" as="sourcePoint" />
             <mxPoint x="414" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-32" target="DKNWYhaMzsymn_I_Z7NB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-26" value="MatchStateNotify&lt;br&gt;服务器匹配状态通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-27" target="DKNWYhaMzsymn_I_Z7NB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-27" value="匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="40" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-30" target="DKNWYhaMzsymn_I_Z7NB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-30" value="GetUdpInfoReq&lt;br&gt;获取udp信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-32" value="匹配成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-26" target="DKNWYhaMzsymn_I_Z7NB-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="150" as="sourcePoint" />
+            <mxPoint x="640" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-7" value="选择模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-1" target="DKNWYhaMzsymn_I_Z7NB-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="70" as="sourcePoint" />
+            <mxPoint x="270" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-4" value="enable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-1" target="DKNWYhaMzsymn_I_Z7NB-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="70" as="sourcePoint" />
+            <mxPoint x="110" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-36" value="scene_mgr.GoBattle&lt;br&gt;进入战斗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,128 +1,188 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T10:18:44.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="zTUUOCv5OHxneUqju6fW" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T07:10:23.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="9rB9OEPK9mazWp1LG8BZ" version="15.0.2" type="github">
   <diagram id="1mUm51Annn_wnX_kLURc" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-4" target="DKNWYhaMzsymn_I_Z7NB-2">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-4" target="DKNWYhaMzsymn_I_Z7NB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-7" target="DKNWYhaMzsymn_I_Z7NB-5">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-7" target="DKNWYhaMzsymn_I_Z7NB-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-1" value="选择模式面板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-1" value="选择模式面板" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-2" value="CSGetTeamInfoReq获取队伍信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-2" value="CSGetTeamInfoReq获取队伍信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-11" target="DKNWYhaMzsymn_I_Z7NB-9">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-11" target="DKNWYhaMzsymn_I_Z7NB-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-15" target="DKNWYhaMzsymn_I_Z7NB-13">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-15" target="DKNWYhaMzsymn_I_Z7NB-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-5" value="CSChangeTargetReq&lt;br&gt;发送切换模式和人数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-5" value="CSChangeTargetReq&lt;br&gt;发送切换模式和人数" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-19" target="DKNWYhaMzsymn_I_Z7NB-13">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-19" target="DKNWYhaMzsymn_I_Z7NB-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-9" value="CSLeaveTeamReq&lt;br&gt;离开队伍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-9" value="CSLeaveTeamReq&lt;br&gt;离开队伍" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-11" value="单人模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-11" value="单人模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-5" target="DKNWYhaMzsymn_I_Z7NB-11">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-5" target="DKNWYhaMzsymn_I_Z7NB-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="220" as="sourcePoint" />
             <mxPoint x="180" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-24" target="DKNWYhaMzsymn_I_Z7NB-21">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-24" target="DKNWYhaMzsymn_I_Z7NB-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-13" value="CSCreateTeamReq&lt;br&gt;创建队伍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-13" value="CSCreateTeamReq&lt;br&gt;创建队伍" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-15" value="组队模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-15" value="组队模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="294" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-5" target="DKNWYhaMzsymn_I_Z7NB-15">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-5" target="DKNWYhaMzsymn_I_Z7NB-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="220" as="sourcePoint" />
             <mxPoint x="330" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-19" value="非单人模式且玩家不在队伍中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-19" value="非单人模式且玩家不在队伍中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-9" target="DKNWYhaMzsymn_I_Z7NB-19">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-9" target="DKNWYhaMzsymn_I_Z7NB-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="290" as="sourcePoint" />
             <mxPoint x="354" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-21" value="CSStartMatchReq&lt;br&gt;开始匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-21" value="CSStartMatchReq&lt;br&gt;开始匹配" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-24" value="单人模式（单人游戏会在点击匹配后创建队伍，因此自动匹配）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-24" value="单人模式（单人游戏会在点击匹配后创建队伍，因此自动匹配）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="334" y="380" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-13" target="DKNWYhaMzsymn_I_Z7NB-24">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-13" target="DKNWYhaMzsymn_I_Z7NB-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="350" as="sourcePoint" />
             <mxPoint x="414" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-32" target="DKNWYhaMzsymn_I_Z7NB-30">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-32" target="DKNWYhaMzsymn_I_Z7NB-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-26" value="MatchStateNotify&lt;br&gt;服务器匹配状态通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-26" value="MatchStateNotify&lt;br&gt;服务器匹配状态通知" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="83" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-27" target="DKNWYhaMzsymn_I_Z7NB-26">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-27" target="DKNWYhaMzsymn_I_Z7NB-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-27" value="匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="40" width="50" height="20" as="geometry" />
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-27" value="匹配" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="118" y="600" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-30" target="DKNWYhaMzsymn_I_Z7NB-36">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-30" target="DKNWYhaMzsymn_I_Z7NB-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-30" value="GetUdpInfoReq&lt;br&gt;获取udp信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-30" value="GetUdpInfoReq&lt;br&gt;获取udp信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="83" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-32" value="匹配成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="170" width="40" height="30" as="geometry" />
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-32" value="匹配成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="123" y="730" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-26" target="DKNWYhaMzsymn_I_Z7NB-32">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-26" target="DKNWYhaMzsymn_I_Z7NB-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="150" as="sourcePoint" />
-            <mxPoint x="640" y="230" as="targetPoint" />
+            <mxPoint x="143" y="710" as="sourcePoint" />
+            <mxPoint x="143" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-7" value="选择模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-7" value="选择模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="100" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-1" target="DKNWYhaMzsymn_I_Z7NB-7">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-1" target="DKNWYhaMzsymn_I_Z7NB-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="70" as="sourcePoint" />
             <mxPoint x="270" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-4" value="enable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-4" value="enable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-1" target="DKNWYhaMzsymn_I_Z7NB-4">
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="DKNWYhaMzsymn_I_Z7NB-1" target="DKNWYhaMzsymn_I_Z7NB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="70" as="sourcePoint" />
             <mxPoint x="110" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKNWYhaMzsymn_I_Z7NB-36" value="scene_mgr.GoBattle&lt;br&gt;进入战斗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="cIZTZoEBrVOznghg1TQm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="cIZTZoEBrVOznghg1TQm-9" target="cIZTZoEBrVOznghg1TQm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DKNWYhaMzsymn_I_Z7NB-36" value="scene_mgr.GoBattle&lt;br&gt;进入战斗：&lt;br&gt;切换bgm，清除UI，重启gamekernel，加载场景" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="64.5" y="875" width="157" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="cIZTZoEBrVOznghg1TQm-3" target="DKNWYhaMzsymn_I_Z7NB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-1" value="进入或切换社区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="895" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-3" value="进入大厅也走进入战斗逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="900" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="cIZTZoEBrVOznghg1TQm-1" target="cIZTZoEBrVOznghg1TQm-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="755" as="sourcePoint" />
+            <mxPoint x="203" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="cIZTZoEBrVOznghg1TQm-13" target="cIZTZoEBrVOznghg1TQm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="cIZTZoEBrVOznghg1TQm-17" target="cIZTZoEBrVOznghg1TQm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-7" value="BattleMainUI处理gamestate的改变（handleEvent）&lt;br&gt;通过Create加载UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-9" value="gamestate改变为EGameState.Enter，进入战斗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="93" y="970" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="DKNWYhaMzsymn_I_Z7NB-36" target="cIZTZoEBrVOznghg1TQm-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143" y="945" as="sourcePoint" />
+            <mxPoint x="143" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-11" value="加载社区UI&lt;br&gt;battle_community_component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="980" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-13" value="进入社区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1010" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="cIZTZoEBrVOznghg1TQm-7" target="cIZTZoEBrVOznghg1TQm-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="203" y="1050" as="sourcePoint" />
+            <mxPoint x="330" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-15" value="加载战斗UI&lt;br&gt;battle_common_component&lt;br&gt;battle_trigger_component&lt;br&gt;battle_setting_component&lt;br&gt;battle_info_component&lt;br&gt;个人闯关模式额外加载&lt;br&gt;battle_single_mode_component&lt;br&gt;battle_hp_component&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1030" width="176" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-17" value="进入战斗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cIZTZoEBrVOznghg1TQm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="cIZTZoEBrVOznghg1TQm-7" target="cIZTZoEBrVOznghg1TQm-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="203" y="1050" as="sourcePoint" />
+            <mxPoint x="334" y="1080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

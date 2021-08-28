@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T07:11:22.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" version="15.0.2" etag="KAKxqxkE1fh0YnPeiEEF" type="github"><diagram id="j4DWHxsOK9u7hYrtMI9y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-28T07:28:02.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="zbZMu_qLxg92wV6M8gv0" version="15.0.2" type="github">
+  <diagram id="j4DWHxsOK9u7hYrtMI9y" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WuUv6YFnXQ6tK_DXYJZs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WuUv6YFnXQ6tK_DXYJZs-1" target="WuUv6YFnXQ6tK_DXYJZs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WuUv6YFnXQ6tK_DXYJZs-1" value="战斗中（社区也算）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WuUv6YFnXQ6tK_DXYJZs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WuUv6YFnXQ6tK_DXYJZs-2" target="WuUv6YFnXQ6tK_DXYJZs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WuUv6YFnXQ6tK_DXYJZs-2" value="CS_GM_KICKOUT_NOTIFY&lt;br&gt;GM要求客户端退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WuUv6YFnXQ6tK_DXYJZs-4" value="战斗返回社区&lt;br&gt;CS_QUIT_GAME_REQ&lt;br&gt;中途退出房间请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="220" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WuUv6YFnXQ6tK_DXYJZs-7" value="CSDismissRoomNotify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T11:57:33.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="WRW7IUbn_XzeGBQBXiXe" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T11:58:46.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="SeJLupiuGRu0hvTRAGvi" version="15.0.3" type="github">
   <diagram id="1mUm51Annn_wnX_kLURc" name="Page-1">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -993,7 +993,7 @@
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-252" value="CSEnterCommunityReq&lt;br&gt;进入社区请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2568.56" y="2346.5" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y79Qkwf2GT1hYq4OMrBV-255" value="CSEnterCommunityRes&lt;br&gt;scene_mgr.GoBattle&lt;br&gt;进入社区&lt;br&gt;(下一模块)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y79Qkwf2GT1hYq4OMrBV-255" value="CSEnterCommunityRes&lt;br&gt;scene_mgr.GoBattle&lt;br&gt;进入社区&lt;br&gt;(回到大厅)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2558.56" y="2462" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-257" target="y79Qkwf2GT1hYq4OMrBV-132">

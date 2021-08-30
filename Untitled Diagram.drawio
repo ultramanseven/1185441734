@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T09:08:38.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="0z3DHoFq47sIOmMR9Prw" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T09:10:50.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="14f_fI6m_gTwodtLCtRw" version="15.0.3" type="github">
   <diagram id="1mUm51Annn_wnX_kLURc" name="Page-1">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -802,20 +802,6 @@
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-175" value="战斗内UI逻辑&lt;br&gt;BattleMainUI&lt;br&gt;和它管理的UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2600" y="2410" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y79Qkwf2GT1hYq4OMrBV-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-181" target="y79Qkwf2GT1hYq4OMrBV-188">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y79Qkwf2GT1hYq4OMrBV-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-181" target="y79Qkwf2GT1hYq4OMrBV-216">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2403.5" y="3047.5" />
-              <mxPoint x="2535.5" y="3047.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y79Qkwf2GT1hYq4OMrBV-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-181" target="y79Qkwf2GT1hYq4OMrBV-217">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-181" target="y79Qkwf2GT1hYq4OMrBV-219">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -842,9 +828,6 @@
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-187" value="&lt;span&gt;服务器Notify&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2963.5" y="2672.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y79Qkwf2GT1hYq4OMrBV-188" value="EGameState.Enter&lt;span&gt;&lt;br&gt;进入战斗&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2259.5" y="3107.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-190" target="y79Qkwf2GT1hYq4OMrBV-191">
           <mxGeometry relative="1" as="geometry" />
@@ -933,26 +916,20 @@
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-215" value="显示断开弹窗，&lt;br&gt;确认后退出客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3507.5" y="2882.5" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="y79Qkwf2GT1hYq4OMrBV-216" value="EGameState.BattleEnter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2557.5" y="3127.5" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y79Qkwf2GT1hYq4OMrBV-217" value="EGameState.BattlePrepareDone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2747.5" y="3117.5" width="200" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-219" target="y79Qkwf2GT1hYq4OMrBV-226">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-219" value="EGameState.BattleEnd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="3117.5" width="140" height="45" as="geometry" />
+          <mxGeometry x="2439.37" y="3090" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-221" target="y79Qkwf2GT1hYq4OMrBV-222">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-221" value="EGameState.Exit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3213.5" y="3107.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="2672.87" y="3080" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-222" value="结算&lt;br&gt;CSGetPlayerRewardInfoRequest&lt;br&gt;获取玩家奖励信息&lt;br&gt;调用处：&lt;br&gt;battle_main_ui" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3153.5" y="3177.5" width="220" height="75" as="geometry" />
+          <mxGeometry x="2612.87" y="3150" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y79Qkwf2GT1hYq4OMrBV-224" target="y79Qkwf2GT1hYq4OMrBV-225">
           <mxGeometry relative="1" as="geometry" />
@@ -964,7 +941,7 @@
           <mxGeometry x="2069.13" y="2723.75" width="122.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y79Qkwf2GT1hYq4OMrBV-226" value="CSSingChallengeEndReq&lt;br&gt;单人模式结束上报结果&lt;br&gt;调用处：&lt;br&gt;battle_single_mode_component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2961.63" y="3202.5" width="176.75" height="80" as="geometry" />
+          <mxGeometry x="2421" y="3175" width="176.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
